@@ -34,3 +34,4 @@ const products = await $fetch('https://fakestoreapi.com/products')
 ## Ghi chú
 - Fake Store API là public demo API, xem https://fakestoreapi.com/docs để biết các endpoint khác (carts, users, categories).
 - Nếu cần thay base URL, cấu hình trong runtime config (.env / nuxt.config).
+- Sử dụng api currency: https://app.currencyapi.com/dashboard
